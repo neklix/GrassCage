@@ -1,0 +1,6 @@
+C:\Users\t001i\Desktop\Tcp_Server\Tcp_Server\bin\Debug\Tcp_Server.exe.config
+C:\Users\t001i\Desktop\Tcp_Server\Tcp_Server\bin\Debug\Tcp_Server.exe
+C:\Users\t001i\Desktop\Tcp_Server\Tcp_Server\bin\Debug\Tcp_Server.pdb
+C:\Users\t001i\Desktop\Tcp_Server\Tcp_Server\obj\Debug\Tcp_Server.csprojResolveAssemblyReference.cache
+C:\Users\t001i\Desktop\Tcp_Server\Tcp_Server\obj\Debug\Tcp_Server.exe
+C:\Users\t001i\Desktop\Tcp_Server\Tcp_Server\obj\Debug\Tcp_Server.pdb
