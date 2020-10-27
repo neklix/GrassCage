@@ -1,0 +1,14 @@
+C:\Users\t001i\documents\visual studio 2017\Projects\MedTest\MedTest\bin\Debug\MedTest.exe.config
+C:\Users\t001i\documents\visual studio 2017\Projects\MedTest\MedTest\bin\Debug\MedTest.exe
+C:\Users\t001i\documents\visual studio 2017\Projects\MedTest\MedTest\bin\Debug\MedTest.pdb
+C:\Users\t001i\documents\visual studio 2017\Projects\MedTest\MedTest\obj\Debug\MedTest.csprojResolveAssemblyReference.cache
+C:\Users\t001i\documents\visual studio 2017\Projects\MedTest\MedTest\obj\Debug\MainWindow.g.cs
+C:\Users\t001i\documents\visual studio 2017\Projects\MedTest\MedTest\obj\Debug\App.g.cs
+C:\Users\t001i\documents\visual studio 2017\Projects\MedTest\MedTest\obj\Debug\MedTest_MarkupCompile.cache
+C:\Users\t001i\documents\visual studio 2017\Projects\MedTest\MedTest\obj\Debug\MedTest_MarkupCompile.lref
+C:\Users\t001i\documents\visual studio 2017\Projects\MedTest\MedTest\obj\Debug\MainWindow.baml
+C:\Users\t001i\documents\visual studio 2017\Projects\MedTest\MedTest\obj\Debug\MedTest.g.resources
+C:\Users\t001i\documents\visual studio 2017\Projects\MedTest\MedTest\obj\Debug\MedTest.Properties.Resources.resources
+C:\Users\t001i\documents\visual studio 2017\Projects\MedTest\MedTest\obj\Debug\MedTest.csproj.GenerateResource.Cache
+C:\Users\t001i\documents\visual studio 2017\Projects\MedTest\MedTest\obj\Debug\MedTest.exe
+C:\Users\t001i\documents\visual studio 2017\Projects\MedTest\MedTest\obj\Debug\MedTest.pdb
